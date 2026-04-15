@@ -1,0 +1,32 @@
+[
+  {
+    "common_name": "example.com",
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+    "not_before": "2024-01-15T00:00:00"
+  },
+  {
+    "common_name": "www.example.com",
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+    "not_before": "2024-01-15T00:00:00"
+  },
+  {
+    "common_name": "mail.example.com",
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert SHA2",
+    "not_before": "2024-02-01T00:00:00"
+  },
+  {
+    "common_name": "*.example.com",
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+    "not_before": "2024-01-20T00:00:00"
+  },
+  {
+    "common_name": "www.example.com",
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R3",
+    "not_before": "2024-03-01T00:00:00"
+  },
+  {
+    "common_name": "api.example.com",
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert SHA2",
+    "not_before": "2024-02-15T00:00:00"
+  }
+]
