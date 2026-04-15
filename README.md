@@ -1,4 +1,8 @@
-# OSINT Recon 🔍
+<p align="center">
+  <img src="https://i.imgur.com/gTrTqof.png" alt="CyberGuard-Password-Analyzer" />
+</p>
+
+<h1 align="center">OSINT Recon 🔍</h1>
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
